@@ -192,3 +192,4 @@ st.altair_chart(
     .configure_mark(opacity=0.2, color="red"),
     use_container_width=True,
 )
+
